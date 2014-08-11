@@ -1,0 +1,6 @@
+dog
+cat
+zebra
+lion
+bear
+octopus
